@@ -17,8 +17,7 @@ This project is a simple yet powerful message encoder and decoder implemented in
 
 **Getting Started:**
 1. Clone the repository: `git clone [repository URL]`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
+2.  Run the application: `python main.py`
 
 Feel free to explore, contribute, and enhance the project! Happy encoding and decoding!
 
